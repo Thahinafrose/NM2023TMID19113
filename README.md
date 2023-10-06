@@ -1,7 +1,7 @@
 # NM2023TMID19113_Thahin
 
 
-dashboard link :https://prod-uk-a.online.tableau.com/t/estimationofbusinessexpensesafrose/views/expensesDashboard/Dashboard1
+dashboard link :https://public.tableau.com/views/AfroseDashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 expenses story link :https://prod-uk-a.online.tableau.com/t/estimationofbusinessexpensesafrose/views/expensesDashboard/Story1
 
